@@ -1,3 +1,6 @@
+## Cryptocurrency Tracker with React
+This website aims to track prices of cryptocurrencies including the current price, cap market, percentage and also using IDR.
+
 ## Overview
 Home page
 </br>
