@@ -1,5 +1,5 @@
 ## Cryptocurrency Tracker with React
-This website aims to track prices of cryptocurrencies including the current price, cap market, percentage and also using IDR.
+This website aims to track prices of cryptocurrencies including the current price, cap market, percentage and also using IDR. THis site also using API from https://www.coingecko.com/en/api
 
 ## Overview
 Home page
